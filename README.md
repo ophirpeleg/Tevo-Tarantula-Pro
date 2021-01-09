@@ -18,6 +18,8 @@ Tevo Tarantula Pro End G-code (Simplify3d)
 Modifications
 The spesific printer that I am using has some modifications on it.
 
+Sensor Mount (my own design): https://www.thingiverse.com/thing:4715752
+
 Direct Drive Mod (thanks to BostonBowser): https://www.thingiverse.com/thing:4032362
+
 Z-Brace Mod (thanks to 3Define): https://www.thingiverse.com/thing:3686755
-Sensor Mount (my own design): 
