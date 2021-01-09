@@ -2,8 +2,10 @@ This is my archive of files for the Tevo Tarantula Pro (green version). At the m
 
 All my final releases will go into this repository, so be sure to keep checking back for updates - and I will be updating the Prusa Slicer files as I keep printing, testing and tweaking.
 
-Download the profile for Pursa Slicer
+[Download the profile for Pursa Slicer](https://github.com/ophirpeleg/Tevo-Tarantula-Pro/blob/main/PrusaSlicer_Bundle_Settings_For_Tevo_Tarantula_Pro.ini "profile for Pursa Slicer")
+
 Download the profile for Simplify3d
+
 
 So that you don't have to risk making typos by manually typing out the start and end G-code, here are a pair of text files that you can just copy+paste straight into Pursa Slicer.
 
