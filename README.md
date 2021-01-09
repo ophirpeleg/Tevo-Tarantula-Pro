@@ -7,8 +7,10 @@ Download the profile for Simplify3d
 
 So that you don't have to risk making typos by manually typing out the start and end G-code, here are a pair of text files that you can just copy+paste straight into Pursa Slicer.
 
-Tevo Tarantula Pro Start G-code (Prusa Slicer)
-Tevo Tarantula Pro End G-code (Prusa Slicer)
+
+[Tevo Tarantula Pro Start G-code (Prusa Slicer)](https://github.com/ophirpeleg/Tevo-Tarantula-Pro/blob/main/PrusaSlicer%20Start%20G-code "Start G-code Prusa Slicer")
+
+[Tevo Tarantula Pro End G-code (Prusa Slicer)](https://github.com/ophirpeleg/Tevo-Tarantula-Pro/blob/main/PrusaSlicer%20End%20G-code "End G-code Prusa Slicer")
 
 Tevo Tarantula Pro Start G-code (Simplify3d)
 Tevo Tarantula Pro End G-code (Simplify3d)
