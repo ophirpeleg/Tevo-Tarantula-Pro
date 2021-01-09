@@ -1,0 +1,15 @@
+M104 S210 ; hotend temp
+M140 S60 ; Bed temp
+M190 S60 ; stabelized
+M109 S210 ; stabelized
+G28 ; home all axes
+G29 ; auto bed leveling
+G92 E0.0 ; reset extruder position
+G1 X-12 Y0 Z5 F4000; 0 0 
+G1 E10 F300;
+G1 Z0.3 F3000 ; get ready to prime
+G1 Y0 Z0.3 F9001 ; go to front edge of the bed
+G92 E0.0 ; reset extruder position
+G1 X60.0 E9.0 F1000.0 ; intro line
+G1 X100.0 E12.5 F1000.0 ; intro line
+G92 E0.0 ; reset extruder position
